@@ -1,0 +1,37 @@
+
+#greycol {
+    color: grey;
+}
+
+#crazykatya{
+    color: red;
+}
+
+#tm {
+    color: pink;
+}
+.yellow {
+    color: yellow;
+}
+
+#arsen {
+    color: green;
+}
+.list1 {
+    color: pink;
+}
+.list2 {
+    color: green;
+}
+.list3 {
+    background-color: cyan;
+}
+.list4 {
+    background-color: aqua;
+    color: aqua;
+    font-size: 100px;
+}
+.list5 {
+    color: black;
+    background-color: black;
+}
